@@ -2,7 +2,7 @@
 
 ## Overview
 This project involved comprehensive analysis of the Lok Sabha election data using a blend of web scraping, Python scripting, data manipulation with Pandas, Microsoft Excel for initial data organization, and Power BI for creating insightful visualizations. The data was sourced from the official Election Commission of India website ([https://results.eci.gov.in](https://results.eci.gov.in)).
-
+**Note :- colab open the file web_scraping_.ipynb  in Goolgle colab** 
 ## Tools Used
 - **Web Scraping**: BeautifulSoup, requests
 - **Data Manipulation**: Python, Pandas
